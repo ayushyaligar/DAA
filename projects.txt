@@ -1,0 +1,10 @@
+Flood_Control_System 9 10 7 2024-01-01 2024-01-31 Affordable_Housing,Road_Repairs
+Affordable_Housing 8 9 6 2024-02-01 2024-03-02 Public_Parks_and_Green_Spaces
+Road_Repairs 8 8 5 2024-03-03 2024-04-02
+Public_Transportation_Upgrades 7 8 6 2024-04-03 2024-05-03 Road_Repairs
+Waste_Management_System 7 9 6 2024-05-04 2024-06-03
+New_School_Construction 6 7 5 2024-06-04 2024-07-04
+Emergency_Health_Clinics 9 9 6 2024-07-05 2024-08-04
+Public_Parks_and_Green_Spaces 6 6 4 2024-08-05 2024-09-04
+Smart_City_Infrastructure 7 7 8 2024-09-05 2024-10-05
+Community_Centers_and_Libraries 5 6 3 2024-10-06 2024-11-05
